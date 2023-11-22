@@ -46,3 +46,7 @@ RUN usermod -aG sudo barreto
 
 EXPOSE 8000
 
+
+
+
+
