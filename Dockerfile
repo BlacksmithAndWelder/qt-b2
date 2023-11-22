@@ -45,3 +45,5 @@ RUN usermod -aG sudo barreto
 #COPY install_server.sh /home/barreto/
 
 EXPOSE 8000
+  
+  
